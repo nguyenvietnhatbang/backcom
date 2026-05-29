@@ -1,0 +1,6 @@
+{
+  "name": "Ecosystem Đầu Tư & Hoàn Phí Trading",
+  "description": "Website thương hiệu cá nhân chuyên chia sẻ kiến thức đầu tư, đánh giá sàn giao dịch, công cụ phân tích và hệ thống hoàn phí (backcom) cho trader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
